@@ -1,4 +1,4 @@
-# <div style="text-align: center;">Nicholas Poulson</div> 
+## <div style="text-align: center;">Nicholas Poulson</div> 
 <div style="text-align: center;">Full Stack Web Developer
 
 Atlanta, GA
