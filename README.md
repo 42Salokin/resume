@@ -1,12 +1,12 @@
-## <div style="text-align: center;">Nicholas Poulson</div> 
-<div style="text-align: center;">Full Stack Web Developer
+# Nicholas Poulson
+Full Stack Web Developer
 
 Atlanta, GA
 
 [GitHub](https://github.com/42Salokin) |
 [LinkedIn](https://www.linkedin.com/in/nicholas-poulson-749112226/) |
 [Portfolio](https://salokinreactportfolio.netlify.app/) |
-nicholas.dpoul@gmail.com</div>
+nicholas.dpoul@gmail.com
 
 ## Education
 University of Central Florida
